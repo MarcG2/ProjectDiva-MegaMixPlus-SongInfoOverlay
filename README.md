@@ -8,11 +8,11 @@ The overlay functionality is achieved using [GameOverlay.Net](https://github.com
 
 ###### Automatic overlay triggered upon song selection
 
-<img title="" src="Overlay Sample 1.png" alt="" width="1309">
+<img title="Sample Image" src="Overlay Sample 1.png" alt="" width="1309">
 
 ###### Configuration Window
 
-![](OVL configurator.png)
+<img title="Configuration Window" src="OVL configurator.png" alt="">
 
 ## Notes on usage
 
