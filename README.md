@@ -1,5 +1,4 @@
 # ProjectDiva-MegaMixPlus-Song-Info-Overlay
----
 
 This mod for Hatsune Miku: Project DIVA MegaMix+ generates a custom text overlay based on the song selected. When you start a song, it shows some information about it pulled from the pv_db.txt file. My primary motivation for the project was I wanted to easily know which mod pack a selected song if from. But it can also display almost any arbitrary information stored in the pv_db.txt file.
 
