@@ -20,7 +20,7 @@ The overlay functionality is achieved using [GameOverlay.Net](https://github.com
 
 - When the game is launched, the configuration window by default is minimized to the system tray.  Don't close the window!  It effectively turns off the mod and requires a game restart. 
 
-- Save Settings must be pressed for config changes to take effect.
+- Save Settings must be pressed for config changes to take effect.  If changing the displayed text variables, the app must be restarted so that the database files are rescanned.  It's best to configure it outside of the game using the test overlay button.  Just run the .exe in the mod folder to bring up the menu.
 
 - Ctrl+1 manually spawns the overlay.  Ctrl+2 spawns the secondary overlay config and takes a screenshot.  The intended use case is providing the song name and mod on a screenshot. 
 
@@ -39,4 +39,3 @@ The overlay functionality is achieved using [GameOverlay.Net](https://github.com
 - This mod is installed like any other MegaMix+ mod.   Refer to [this guide](https://gamebanana.com/tuts/15379) for general directions on mod installation.
 
 - Download the [latest release](https://github.com/MarcG2/ProjectDiva-MegaMixPlus-SongInfoOverlay/releases/) and extract the zip to your mod folder.
-
