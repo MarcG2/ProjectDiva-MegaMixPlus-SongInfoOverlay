@@ -12,7 +12,7 @@ The overlay functionality is achieved using [GameOverlay.Net](https://github.com
 
 ###### Configuration Window
 
-<img title="Configuration Window" src="OVL configurator.png" alt="">
+<img title="Configuration Window" src="OVL configurator.png" width="900" alt="">
 
 ## Notes on usage
 
